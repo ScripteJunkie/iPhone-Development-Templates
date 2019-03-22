@@ -18,12 +18,10 @@ html {
   height: 1334px;
   width: 750px;
   background: black;
-  border: 1px 1px 1px 1px grey;
   transform: scale(0.9);
   left: 92px;
   top: 75px;
-  position: absolute;
-  margin: none;
+  position: fixed;
 }
 
 
